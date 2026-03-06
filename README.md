@@ -1,4 +1,4 @@
-# 📊 Financial News Sentiment Analysis
+# 📊 Financial News Sentiment & Stock Movement Analysis
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/bc726ad0-54d7-43b6-9123-909cc22cc8d3" />
 
 ## 1. Background & Overview
